@@ -1,0 +1,16 @@
+Mereu Razvan - Grupa 931- Prel
+
+Recipe Management
+
+Recipe : pictures + ingredients + cooking time + steps
+Use: has his own recipes + search through custom recipes + see recipes of others
+Admin: special user + CRUD operations on custom recipes
+
+An app with user authentication which allows each user to keep their recipes in a single place
+(list of recipes). Its like a facebook or pinterest just for recipes. Each user can share a recipe
+within the app or can send a mail with a recipe to a friend. A user have a profile with its
+recipes and for each recipe there is a grade he can take. Each user can see a chart with their
+activity on the app for each month, how many recipes they have posted or shared and also how much
+time did they spend cooking. The app will have online and offline support. This app have also a
+part with custom recipes and each user can search in this section. This section is administrated
+by a super user called admin. He manage custom recipes
